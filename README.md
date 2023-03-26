@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @redaKarami
-- 👀 I’m interested in conding , watching , eating , sleeping.
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in conding.
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on a project
 
 <!---
